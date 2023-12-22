@@ -1,4 +1,5 @@
-![Logo](https://e0.pxfuel.com/wallpapers/235/768/desktop-wallpaper-dark-northern-lights-aurora-borealis.jpg)
+<img src="https://e0.pxfuel.com/wallpapers/235/768/desktop-wallpaper-dark-northern-lights-aurora-borealis.jpg" alt="Northern Lights" style="width:100%" height="400">
+
 
 - 👋 Hi, I’m @xasanovdev
 - 👀 I’m interested in creating user interfaces.
