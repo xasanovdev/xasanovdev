@@ -1,8 +1,8 @@
-![Logo](https://coolwallpapers.me/th700/5402900-northern-lights-nature-hd-aurora-4k-5k-8k-green.jpg)
+![Logo](https://e0.pxfuel.com/wallpapers/235/768/desktop-wallpaper-dark-northern-lights-aurora-borealis.jpg)
 
 - 👋 Hi, I’m @xasanovdev
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Js
+- 👀 I’m interested in creating user interfaces.
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me @i_xasanovv
 
 <!---
