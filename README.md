@@ -1,4 +1,4 @@
-![Logo](https://coolwallpapers.me/picsup/5402900-northern-lights-nature-hd-aurora-4k-5k-8k-green.jpg)
+![Logo]([https://coolwallpapers.me/picsup/5402900-northern-lights-nature-hd-aurora-4k-5k-8k-green.jpg](https://coolwallpapers.me/th700/5402900-northern-lights-nature-hd-aurora-4k-5k-8k-green.jpg))
 
 - 👋 Hi, I’m @xasanovdev
 - 👀 I’m interested in frontend development
