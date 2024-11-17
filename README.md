@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @xasanovdev
 - 👀 I’m interested in creating user interfaces.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Typescript, React, Python
 - 📫 How to reach me @i_xasanovv
 
 <!---
